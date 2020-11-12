@@ -1,3 +1,3 @@
 # CBNU
-CBNU-DIAI
+CBNU-INDAI
 Hi, everyone!
