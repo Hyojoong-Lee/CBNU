@@ -1,3 +1,8 @@
-# CBNU
-CBNU-INDAI
-Hi, everyone!
+# **충북대 산업인공지능학과 이효중** 
+
+- 2020년 2학기:2020년 2학기 수업 내용 정리
+
+<p align="center">
+  
+</p>
+</br>
