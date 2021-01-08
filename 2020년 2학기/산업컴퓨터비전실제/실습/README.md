@@ -9,6 +9,8 @@
 - Chapter08.py: Feature Matching
 - chapter09.py: optical flow and Panorama stitching
 - chapter10.py: Geometric Camera Models
+- chapter11.py: Epipolar Geometry
+- chapter12.py: Object Detector
 
 <p align="center">
   
