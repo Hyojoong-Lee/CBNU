@@ -4,9 +4,9 @@
    + Durable 시나리오.ppt : Coding 전 각종 발생 가능한 시나리오의 흐름을 정리
    + Project01_DurableRules.py : 작성한 Code
 
-[시나리오 구조]\n
+[시나리오 구조]</p>
 <img src="./ResultImg/시나리오.jpg"  width="640" height="300">  
-[실행 결과]\n
+[실행 결과]</p>
 <img src="./ResultImg/실행결과.jpg"  width="640" height="300"> 
 
 <p align="center">
