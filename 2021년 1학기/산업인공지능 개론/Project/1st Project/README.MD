@@ -5,6 +5,6 @@
    + Project01_DurableRules.py : 작성한 Code
 
 <p align="center">
-  
+<img src="./시나리오.JPG"  width="640" height="300">  
 </p>
 </br>
