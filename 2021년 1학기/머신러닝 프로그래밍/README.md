@@ -1,6 +1,6 @@
 # ** 머신러닝 프로그래밍** 
 
-- NULL
+- Report : 학기중 진행한 Report
 
 <p align="center">
   
