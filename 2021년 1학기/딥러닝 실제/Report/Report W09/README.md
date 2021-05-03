@@ -5,7 +5,7 @@
 3. 위의  [1][2]에서 오버피팅 문제를 기술하시오.
 	* 이효중_9주차 Report.pptx : 실행 및 Test 결과 정리
 
-[전가산기 결과]</p>
+[정확도의 변화량]</p>
 <img src=".\Report_W09.jpg"  width="640" height="300"> 
 
 <p align="center">
