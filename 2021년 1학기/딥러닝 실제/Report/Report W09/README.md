@@ -6,7 +6,7 @@
 	* 이효중_9주차 Report.pptx : 실행 및 Test 결과 정리
 
 [정확도의 변화량]</p>
-<img src=".\Report_W09.jpg"  width="640" height="300"> 
+<img src=".\Report_W09.jpg"  width="640" height="480"> 
 
 <p align="center">
   
