@@ -6,7 +6,7 @@
 	* RReport_W04_2020254015_이효중.pptx : 실행 결과.
 
 [전가산기 결과]</p>
-<img src=".\Report_W04.jpg"  width="640" height="300"> 
+<img src=".\Report_W04.jpg"  width="640" height="480"> 
 
 <p align="center">
   
