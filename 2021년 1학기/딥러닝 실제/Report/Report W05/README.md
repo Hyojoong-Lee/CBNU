@@ -6,7 +6,7 @@
 	* Report_W05_2020254015_이효중.pptx : 실행 결과 및 로직.
 
 [전가산기 결과]</p>
-<img src=".\Report_W05.jpg"  width="640" height="300"> 
+<img src=".\Report_W05.jpg"  width="640" height="480"> 
 
 <p align="center">
   
