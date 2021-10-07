@@ -4,7 +4,7 @@
 - 해당 불량에 대해 1차로 Pseudo Color 영상 생성.
 
 [진행 상황 - 1차 선정 불량 항목의 Pseudo Color 영상 생성]</p>
-<img src="./4주차 Pseudo Color 영상.jpg"  width="640" height="480"> 
+<img src="./4주차 Pseudo Color 영상.jpg"  width="640" height="360"> 
  
 <p align="center">
  
