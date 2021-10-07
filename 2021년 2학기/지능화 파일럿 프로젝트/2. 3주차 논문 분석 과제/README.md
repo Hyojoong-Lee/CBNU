@@ -15,7 +15,7 @@
 
 
 [해당 논문의 영상 리사이징 분석 결과표]</p>
-<img src="./영상 리사이징 결과표.jpg"  width="640" height="480"> 
+<img src="./영상 리사이징 결과표.jpg"  width="640" height="360"> 
  
 <p align="center">
  
