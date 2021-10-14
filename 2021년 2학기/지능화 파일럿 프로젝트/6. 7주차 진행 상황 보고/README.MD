@@ -17,6 +17,9 @@
 
 [진행 상황 - Pseudo Color Image 생성 과정]</p>
 <img src="./CreatePseudoColorImage.jpg"  width="640" height="360"> 
+
+[진행 상황 - 각 Group별 영상 Set 구성]</p>
+<img src="./영상Set구성.jpg"  width="640" height="200"> 
  
 <p align="center">
  
