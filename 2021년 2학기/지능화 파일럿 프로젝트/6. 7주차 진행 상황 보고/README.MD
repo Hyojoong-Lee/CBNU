@@ -13,6 +13,7 @@
 
 - 다른 불량 유형의 경우 충분한 영상 수집이 어려워 Bump 돌기(눌림) 불량만 이번 학기 동안 진행 예정
 - 차주부터 각 영상 Group별로 ResNet-18로 Test 진행 예정
+    + 학습용 영상과 검증용 영상 분류 필요 
 
 [진행 상황 - Pseudo Color Image 생성 과정]</p>
 <img src="./CreatePseudoColorImage.jpg"  width="640" height="360"> 
