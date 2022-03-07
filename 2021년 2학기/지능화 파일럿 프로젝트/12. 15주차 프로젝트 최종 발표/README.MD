@@ -18,8 +18,6 @@
 [결론 및 요약]</p>
 <img src="./결론 및 요약.jpg"  width="640" height="480"> 
 
-연구의 의의 및 고찰
-
 <p align="center">
  
 </p>
