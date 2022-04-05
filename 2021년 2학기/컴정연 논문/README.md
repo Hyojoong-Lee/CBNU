@@ -1,5 +1,6 @@
 # ** 컴퓨터 정보통신연구소 논문 ** 
 
+https://ricic.cbnu.ac.kr/ricic/journal_collection/37920
 - 제목 : 중심-경계부 거리 변화량을 이용한 BGA 반도체 범프의 돌기 및 눌림 불량 검사
   * 현재 검사 과정에서 플립 칩을 장착하기 위한 Substrate의 Bump Ball에 외력에 의한 파손을 검출해야 하는 이슈가 있으나 기존의 검사 항목으로 대응이 불가능함
   * Ball Width 검사로 가능할 것으로 판단되나. Substrate의 Bump Ball은 플립 칩의 Bump Ball과 원활한 융착을 위해 코이닝(Coining) 공정을 거치면서 Ball의 상단면이 평평해 지면서 이 상단면이 Bump Ball의 높이에 따라 면적이 달라지게 되어 Width로 검출이 불가능함
